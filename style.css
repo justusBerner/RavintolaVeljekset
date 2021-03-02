@@ -70,14 +70,12 @@ p{
   position: absolute;
   top: 40%;
   right: 15px;
-  display: none;
 }
 
 .buttons button#prev {
   position: absolute;
   top: 40%;
   left: 15px;
-  display: none;
 }
 
 .buttons button {
